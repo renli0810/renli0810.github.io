@@ -34,7 +34,7 @@
 }
 
 body {
-    background-color: #b95013;
+    background-color: #e9622c;
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
@@ -511,7 +511,7 @@ header .side-nav .social-link {
 .cover-social-link a {
     padding: 0 15px;
     font-size: 1.35rem;
-    color: rgb(7, 1, 1);
+    color: #fff;
 }
 
 header .go-back {
@@ -570,7 +570,7 @@ header .go-back i {
 
 .bg-cover .container {
     position: relative;
-    color: #fff;
+    color: rgb(3, 0, 0);
     z-index: 2;
 }
 
@@ -585,7 +585,7 @@ header .go-back i {
     font-weight: 300;
     font-size: 1.25rem;
     line-height: 1.4em;
-    color: #eee;
+    color: rgb(10, 0, 0);
 }
 
 .bg-cover .post-title {
