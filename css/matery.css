@@ -34,7 +34,7 @@
 }
 
 body {
-    background-color: #e9622c;
+    background-color:linear-gradient(to right, #f6fa10 0%, #f70707 100%);
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
