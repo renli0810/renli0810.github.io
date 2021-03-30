@@ -511,7 +511,7 @@ header .side-nav .social-link {
 .cover-social-link a {
     padding: 0 15px;
     font-size: 1.35rem;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 header .go-back {
