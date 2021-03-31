@@ -34,8 +34,8 @@
 }
 
 body {
-    height: 400px;
-    background-color: rgb(17, 17, 17);
+    height: auto;
+    background-color: rgb(240, 146, 58);
     background-color: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
     margin: 0;
     color: #34495e;
