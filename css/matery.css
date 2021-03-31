@@ -34,7 +34,7 @@
 }
 
 body {
-    height: 4px;
+    height: 400px;
     background-color: rgb(17, 17, 17);
     background-color: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
     margin: 0;
