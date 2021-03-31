@@ -34,9 +34,9 @@
 }
 
 body {
-    background-color: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
+    background: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
     margin: 0;
-    color: linear-gradient(to right, #f6fa10 0%, #f70707 100%);;
+    color: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
     overflow-x: hidden;
     overflow-y: auto;
 }
