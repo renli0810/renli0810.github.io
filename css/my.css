@@ -1,7 +1,7 @@
 /* Here is your custom css styles. */
 @font-face{
     font-family: 'myFont';
-    src: url('../font/myFont.ttf');
+    src: url('../font/myfont.ttf');
 }
 
 body{
