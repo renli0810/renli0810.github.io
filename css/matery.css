@@ -228,7 +228,7 @@ mark {
 .card {
     border-radius: 10px;
     box-shadow: 0 15px 35px rgba(50, 50, 93, .1), 0 5px 15px rgba(0, 0, 0, .07) !important;
-    background: linear-gradient(to right, #f6fa10 0%, #f70707 100%);
+    /*background: linear-gradient(to right, #f6fa10 0%, #f70707 100%);*/
 }
 
 .card .card-image img {
